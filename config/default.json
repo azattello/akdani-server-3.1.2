@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:S8921lelH6F3N0Qf@ak-dani.leoq6if.mongodb.net/?retryWrites=true&w=majority&appName=ak-dani",
+    "secretKey" : "mern-secret-key"
+}
